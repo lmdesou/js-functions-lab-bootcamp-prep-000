@@ -9,4 +9,4 @@ function happyHolidayTo (name) {
 function happyHolidayTo (holiday, name) {
   return (`Happy ${holiday}, ${name}!`)
 }
-var name === "you"
+string === "you"
